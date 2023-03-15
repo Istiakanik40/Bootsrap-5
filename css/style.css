@@ -13,10 +13,12 @@
 
 .right_element div{
     display: inline;
+    padding: 10px;
 }
 
 .right_element{
     padding: 10px 0px 0px 0px;
+    float: right;
 }
 
 
