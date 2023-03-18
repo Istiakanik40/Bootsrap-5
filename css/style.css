@@ -21,10 +21,48 @@
     float: right;
 }
 
+.custom_navbar img{
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
 
+#man_image{
+    background: url("/img/1.png");
+    min-height: 600px;
+}
+.man_image img{
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+.overlay_text{
+    transform: translate(50% ,80%);
+}
 
 
 /* Footer Section */
 .footer_section{
     background-color: rgb(77, 77, 77);
+    padding: 5%;
+}
+.footer_unitech_logo img{
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+.footer_fist_col_icon div{
+    display: inline;
+    padding: 10px;
+}
+.footer_discriptions{
+    padding: 10px;
+}
+a:link{
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: none;
 }
